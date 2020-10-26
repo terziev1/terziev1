@@ -6,9 +6,9 @@ I'm Kostadin, a JavaScript developer from Bulgaria.
 - 🏢 I'm currently working remotely at **Shopbox**
 - 💬 Ping me about **development**, **design**
 - ⚡️ Interested in everything Svelte / JAMstack
-- 📫 Reach me: linkedin.com/in/kostadin-terziev
+- 📫 Reach me on [linkedin](linkedin.com/in/kostadin-terziev)
 
 ---
 
 {{ ACCOUNT_AGE }}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1&layout=compact">
