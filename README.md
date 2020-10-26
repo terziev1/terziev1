@@ -10,4 +10,4 @@ I'm Kostadin. I am a JavaScript developer from Bulgaria.
 
 ---
 
-[Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1">
