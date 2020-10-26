@@ -32,10 +32,6 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Profile Readme Stats
-      # You may pin to the exact commit or the version.
-      # uses: teoxoy/profile-readme-stats@9a13bb764f05e8195b4f9eb4b2b2f6cb48f241ae
         uses: teoxoy/profile-readme-stats@v1
         with:
-        # Personal access token with `read:user` scope and optional `repo` scope
-         token: ac57442f15040509dd6ff4903fc879703d6419aa
-         readme: ./README.md
+         token: 8a9f9998b3e3eb12b2b9e8b5316d97bf96e3cad5
