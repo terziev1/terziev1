@@ -10,4 +10,5 @@ I'm Kostadin, a JavaScript developer from Bulgaria.
 
 ---
 
+{{ ACCOUNT_AGE }}
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1">
