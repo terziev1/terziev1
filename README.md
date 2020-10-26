@@ -10,5 +10,4 @@ I'm Kostadin. I am a JavaScript developer from Bulgaria.
 
 ---
 
-<p align = "center">
-![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1)
+[Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1)
