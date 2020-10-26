@@ -1,6 +1,6 @@
-## Hi 👋 I am Kostadin!
+## Hi there 👋
 
-I'm Kostadin. I am a JavaScript developer from Bulgaria.
+I'm Kostadin, a JavaScript developer from Bulgaria.
 
 - ⚙️ I use daily: `.js`, `.vue`, `.svelte`, `.html`,`.sass`,`.css`, `.psd`, `.sketch`
 - 🏢 I'm currently working remotely at **Shopbox**
