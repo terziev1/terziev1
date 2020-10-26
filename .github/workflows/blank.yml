@@ -37,4 +37,5 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1
         with:
         # Personal access token with `read:user` scope and optional `repo` scope
+         token: ac57442f15040509dd6ff4903fc879703d6419aa
          readme: ./README.md
