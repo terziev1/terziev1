@@ -2,7 +2,7 @@
 
 I'm Kostadin, a JavaScript developer from Bulgaria.
 
-- ⚙️ I use daily: `.js`, `.svelte`, `.vue`, `.html`,`.sass`,`.css`, `.psd`, `.sketch`
+- ⚙️ I use daily: `.js`, `.svelte`, `.vue`, `.html`,`.sass`,`.css`, `.psd`, `.sketch`, `.figma`
 - 🏢 I'm currently working remotely at **Shopbox**
 - 💬 Ping me about **development**, **design**
 - ⚡️ Interested in everything Svelte / JAMstack
