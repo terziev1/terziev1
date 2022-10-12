@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kostadin, a JavaScript developer from Bulgaria.
+I'm Kostadin, a developer from Bulgaria.
 
 - ⚙️ I use daily: `.js`, `.svelte`, `.vue`, `.html`,`.sass`,`.css`, `.psd`, `.sketch`, `.figma`
 - 🏢 I'm currently working remotely at **Shopbox**
@@ -12,4 +12,4 @@ I'm Kostadin, a JavaScript developer from Bulgaria.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1&layout=compact">
 
-##### Joined Github 4 years ago.
+##### Joined Github 6 years ago.
