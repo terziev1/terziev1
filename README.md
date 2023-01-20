@@ -10,6 +10,5 @@ I'm Kostadin, a developer from Bulgaria.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terziev1&layout=compact">
 
-##### Joined Github 6 years ago.
+##### Joined Github 7 years ago.
